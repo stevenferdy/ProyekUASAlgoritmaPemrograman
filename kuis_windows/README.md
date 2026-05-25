@@ -18,7 +18,7 @@ Install **MinGW** atau **MSYS2** agar punya g++ di Windows:
 ## Cara Menjalankan
 1. Double klik `run_server.bat` → tunggu server jalan
 2. Double klik `run_client.bat` di jendela baru → ikuti kuis
-3. Untuk peserta ke-2, 3, dst → double klik `run_client.bat` lagi
+3. Untuk peserta ke-2, 3, dst → double klik `run_client_only.bat`
 
 ## Struktur File
 ```
