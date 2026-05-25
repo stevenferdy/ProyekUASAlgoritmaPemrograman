@@ -1,3 +1,0 @@
-# Proyek Akhir UAS Algoritma Pemrograman 
-
-Aplikasi Kuis Online ini adalah sistem ujian interaktif yang dibuat dengan bahasa C++. Aplikasi ini memungkinkan beberapa peserta untuk mengerjakan kuis bersamaan di dalam satu jaringan lokal. Sistem ini dilengkapi dengan komputer pusat yang mengelola daftar soal, menilai hasil ujian secara otomatis, dan memunculkan peringkat nilai tertinggi. Program ini dibangun dengan struktur yang terorganisir dengan baik, menggunakan metode yang efisien untuk menyimpan, mengurutkan, dan mencari data, serta dirancang agar bisa menangani banyak pengguna secara bersamaan dengan lancar.
