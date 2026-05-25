@@ -37,6 +37,7 @@ quizapp_windows/
 │   └── main_client.cpp   ← Client Winsock2
 ├── run_server.bat         ← Double klik untuk jalankan server
 └── run_client.bat         ← Double klik untuk jalankan client
+└── run_client_only.bat    ← Double klik untuk jalankan client tanpa melakukan compile lagi
 ```
 
 ## Akun & Soal Default
